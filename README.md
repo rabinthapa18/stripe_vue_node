@@ -10,7 +10,7 @@ This project demonstrates how to integrate the Stripe payment gateway into a Vue
 
 ## Blog Post
 
-For a detailed tutorial on setting up this project, please refer to [this blog post]()(link coming soon) where I explain each step in detail.
+For a detailed tutorial on setting up this project, please refer to [this blog post](https://rabinson.hashnode.dev/seamless-payments-integrating-stripe-with-vuejs-and-nodejs) where I explain each step in detail.
 
 ## Setup Instructions
 
